@@ -8,6 +8,7 @@ Dataset:https://www.kaggle.com/datasets/komalkhetlani/apple-iphone-data
 Sales Insights:
 
 This summary highlights three key insights regarding the preferences of Indian consumers on Flipkart when it comes to Apple iPhones.
+
 1.Firstly, the Apple iPhone 8 Plus (Gold, 64 GB) has garnered high ratings and reviews, making it the most appreciated iPhone in the Indian market.
 
 2.Secondly, there is a clear trend in India where iPhones with lower sale prices are more likely to attract higher sales volumes. The affordability factor plays a significant role in driving the demand for these models, making them accessible to a wider segment of the Indian population.
